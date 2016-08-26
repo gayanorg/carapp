@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><resource name="local1.xml" isCollection="false" path="/_system/governance/localEntry/R1/local1.xml" registryUrl="https://localhost:9443/registry" status="added">
+    <mediaType>application/vnd.wso2.esb.localentry</mediaType>
+</resource>

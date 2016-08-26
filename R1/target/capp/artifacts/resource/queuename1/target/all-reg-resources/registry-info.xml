@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <collection>
+        <directory>esb-configurations</directory>
+        <path>/_system/governance//_system/config/repository/esb/esb-configurations/esb-configurations</path>
+    </collection>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="local1" groupId="com.example.R1.resource" version="1.0.0" type="registry/resource" serverRole="GovernanceRegistry">
+        <item>
+            <file>local1.xml</file>
+            <path>/_system/governance/localEntry</path>
+            <mediaType>application/vnd.wso2.esb.localentry</mediaType>
+        </item>
+    </artifact>
+    <artifact name="queuename1" groupId="com.example.R1.resource" version="1.0.0" type="registry/resource" serverRole="GovernanceRegistry">
+        <collection>
+            <directory>esb-configurations</directory>
+            <path>/_system/governance//_system/config/repository/esb/esb-configurations/esb-configurations</path>
+        </collection>
+    </artifact>
+    <artifact name="QueueName-2" groupId="com.example.R1.resource" version="1.0.0" type="registry/resource" serverRole="GovernanceRegistry">
+        <item>
+            <file>QueueName-2.xml</file>
+            <path>/_system/governance//_system/config/repository/esb/esb-configurations</path>
+            <mediaType>application/vnd.wso2.sequence</mediaType>
+        </item>
+    </artifact>
+    <artifact name="queuename3" groupId="com.example.R1.resource" version="1.0.0" type="registry/resource" serverRole="GovernanceRegistry">
+        <item>
+            <file>queuename3.xml</file>
+            <path>/_system/governance//_system/config/repository/esb/esb-configurations</path>
+            <mediaType>application/vnd.wso2.esb.localentry</mediaType>
+        </item>
+    </artifact>
+</artifacts>
